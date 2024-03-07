@@ -10,4 +10,4 @@ def home(request):
 
 
 def about(request):
-    return render(request, 'blog/about.html', {'title': 'О клубе Python Bytes'})
+    return render(request, 'blog/about.html', {'title': 'О клубе Neobis'})
